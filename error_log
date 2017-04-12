@@ -1,0 +1,203 @@
+[03-Dec-2016 18:45:31 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 150
+[03-Dec-2016 18:45:41 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 150
+[03-Dec-2016 18:45:50 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 150
+[03-Dec-2016 18:46:00 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 150
+[05-Dec-2016 06:28:09 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIKE '2016-12-05%' ORDER BY at_id DESC' at line 1' in /home/weopencom/eaglepro.weopencom.co/track_all_user.php:5
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/track_all_user.php(5): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(108): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 5
+[05-Dec-2016 06:29:01 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIKE '2016-12-05%'' at line 1' in /home/weopencom/eaglepro.weopencom.co/track_all_user.php:5
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/track_all_user.php(5): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(108): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 5
+[05-Dec-2016 06:31:05 America/New_York] PHP Warning:  include(../db_connect.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 7
+[05-Dec-2016 06:31:05 America/New_York] PHP Warning:  include(../db_connect.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 7
+[05-Dec-2016 06:31:05 America/New_York] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 7
+[05-Dec-2016 06:31:19 America/New_York] PHP Warning:  include(../db_connect.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 3
+[05-Dec-2016 06:31:19 America/New_York] PHP Warning:  include(../db_connect.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 3
+[05-Dec-2016 06:31:19 America/New_York] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 3
+[05-Dec-2016 06:32:01 America/New_York] PHP Warning:  include(../db_connect.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 3
+[05-Dec-2016 06:32:01 America/New_York] PHP Warning:  include(../db_connect.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 3
+[05-Dec-2016 06:32:01 America/New_York] PHP Warning:  include(): Failed opening '../db_connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 3
+[05-Dec-2016 06:32:30 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIKE '2016-12-05%'' at line 1' in /home/weopencom/eaglepro.weopencom.co/track_all_user.php:5
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/track_all_user.php(5): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(108): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 5
+[05-Dec-2016 06:32:57 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIKE '2016-12-05'' at line 1' in /home/weopencom/eaglepro.weopencom.co/track_all_user.php:5
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/track_all_user.php(5): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(108): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 5
+[05-Dec-2016 06:33:53 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIKE '2016-12-05%'' at line 1' in /home/weopencom/eaglepro.weopencom.co/track_all_user.php:5
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/track_all_user.php(5): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(108): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 5
+[05-Dec-2016 07:40:33 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/weopencom/eaglepro.weopencom.co/controller/FetchValue.php on line 114
+[05-Dec-2016 07:56:50 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/weopencom/eaglepro.weopencom.co/controller/FetchValue.php on line 114
+[05-Dec-2016 07:57:24 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/weopencom/eaglepro.weopencom.co/controller/FetchValue.php on line 114
+[05-Dec-2016 07:58:38 America/New_York] PHP Fatal error:  Class 'FetchValue' not found in /home/weopencom/eaglepro.weopencom.co/track_all_user.php on line 4
+[05-Dec-2016 08:09:58 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 149
+[05-Dec-2016 08:11:46 America/New_York] PHP Strict Standards:  Only variables should be passed by reference in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 149
+[05-Dec-2016 08:32:22 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1' at line 8' in /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php:13
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php(13): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/view_order.php(53): include('/home/weopencom...')
+#2 /home/weopencom/eaglepro.weopencom.co/index.php(98): include('/home/weopencom...')
+#3 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php on line 13
+[05-Dec-2016 08:32:32 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1' at line 8' in /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php:13
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php(13): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/view_order.php(53): include('/home/weopencom...')
+#2 /home/weopencom/eaglepro.weopencom.co/index.php(98): include('/home/weopencom...')
+#3 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php on line 13
+[05-Dec-2016 08:32:35 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1' at line 8' in /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php:13
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php(13): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/view_order.php(53): include('/home/weopencom...')
+#2 /home/weopencom/eaglepro.weopencom.co/index.php(98): include('/home/weopencom...')
+#3 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/order_table.php on line 13
+[05-Dec-2016 08:46:30 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/weopencom/eaglepro.weopencom.co/products.php:233
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/products.php(233): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(94): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/products.php on line 233
+[05-Dec-2016 08:47:58 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1' in /home/weopencom/eaglepro.weopencom.co/products.php:233
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/products.php(233): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(94): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/products.php on line 233
+[05-Dec-2016 08:50:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/weopencom/eaglepro.weopencom.co/products.php on line 4
+[05-Dec-2016 08:50:56 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/weopencom/eaglepro.weopencom.co/products.php on line 27
+[05-Dec-2016 09:18:13 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/weopencom/eaglepro.weopencom.co/products.php on line 82
+[05-Dec-2016 09:29:03 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:03 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:03 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:26 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:26 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:26 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:28 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:28 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:28 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:38 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:38 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:29:38 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:11 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:11 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:11 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:14 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:14 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:14 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:43 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:43 America/New_York] PHP Warning:  include(attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:30:43 America/New_York] PHP Warning:  include(): Failed opening 'attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:43 America/New_York] PHP Warning:  include(Views/attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:43 America/New_York] PHP Warning:  include(Views/attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:43 America/New_York] PHP Warning:  include(): Failed opening 'Views/attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:45 America/New_York] PHP Warning:  include(Views/attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:45 America/New_York] PHP Warning:  include(Views/attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:45 America/New_York] PHP Warning:  include(): Failed opening 'Views/attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:46 America/New_York] PHP Warning:  include(Views/attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:46 America/New_York] PHP Warning:  include(Views/attendance.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 09:31:46 America/New_York] PHP Warning:  include(): Failed opening 'Views/attendance.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 115
+[05-Dec-2016 10:42:58 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/weopencom/eaglepro.weopencom.co/views/attendance.php on line 40
+[05-Dec-2016 11:28:02 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/weopencom/eaglepro.weopencom.co/views/attendance.php on line 61
+[06-Dec-2016 19:35:20 America/New_York] PHP Warning:  include(setting.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 125
+[06-Dec-2016 19:35:20 America/New_York] PHP Warning:  include(setting.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 125
+[06-Dec-2016 19:35:20 America/New_York] PHP Warning:  include(): Failed opening 'setting.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 125
+[06-Dec-2016 19:35:46 America/New_York] PHP Warning:  include(setting.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 125
+[06-Dec-2016 19:35:46 America/New_York] PHP Warning:  include(setting.php): failed to open stream: No such file or directory in /home/weopencom/eaglepro.weopencom.co/index.php on line 125
+[06-Dec-2016 19:35:46 America/New_York] PHP Warning:  include(): Failed opening 'setting.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/weopencom/eaglepro.weopencom.co/index.php on line 125
+[06-Dec-2016 19:52:22 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/weopencom/eaglepro.weopencom.co/views/setting.php on line 150
+[06-Dec-2016 19:52:41 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/weopencom/eaglepro.weopencom.co/views/setting.php on line 122
+[06-Dec-2016 20:45:58 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weopenco_eaglepro.post_table' doesn't exist' in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php:319
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/assign_post.php(319): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(99): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 319
+[06-Dec-2016 20:46:01 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weopenco_eaglepro.post_table' doesn't exist' in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php:319
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/assign_post.php(319): PDOStatement->execute()
+#1 /home/weopencom/eaglepro.weopencom.co/index.php(99): include('/home/weopencom...')
+#2 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/assign_post.php on line 319
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_e20d116fc739c5a397a7ff4110056359, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/usercheck.php on line 3
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_e20d116fc739c5a397a7ff4110056359, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 05:58:06 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_4d0a10f815fdea80dc33fdc6a9a8e140, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Illegal string offset 'target' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Illegal string offset 'achieved' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Illegal string offset 'target' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Illegal string offset 'achieved' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_4d0a10f815fdea80dc33fdc6a9a8e140, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 05:58:32 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 05:58:38 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_7a7a5c48922dbd3300efe553a812c543, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:38 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:38 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 05:58:38 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_7a7a5c48922dbd3300efe553a812c543, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 05:58:38 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 05:58:39 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_f71c91b97434549d995ea50e0e4b120c, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:39 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:39 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 05:58:39 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_f71c91b97434549d995ea50e0e4b120c, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 05:58:39 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 05:58:42 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_c9eebeef852dbf4352d50d7be7248a5c, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:42 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:42 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 05:58:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 05:58:42 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_c9eebeef852dbf4352d50d7be7248a5c, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 05:58:42 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_b3a542b4d597e9682fdd83623107442b, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Illegal string offset 'target' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Illegal string offset 'achieved' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Illegal string offset 'target' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Illegal string offset 'achieved' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_b3a542b4d597e9682fdd83623107442b, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 06:00:07 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 06:00:15 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_bd64e47e1906aa8e84b5551c7df0ff61, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:15 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:15 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 06:00:15 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_bd64e47e1906aa8e84b5551c7df0ff61, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 06:00:15 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_60eeafb2029599a7831fdb6668c6f6c0, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 2
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/index.php:2) in /home/weopencom/eaglepro.weopencom.co/index.php on line 85
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Illegal string offset 'target' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Illegal string offset 'achieved' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Illegal string offset 'target' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Illegal string offset 'achieved' in /home/weopencom/eaglepro.weopencom.co/mytarget.php on line 53
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_60eeafb2029599a7831fdb6668c6f6c0, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[10-Dec-2016 06:00:17 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[14-Dec-2016 08:23:55 America/New_York] PHP Warning:  session_start(): open(/tmp/sess_fe7f80ffd0dff837d5bc5048560edbf9, O_RDWR) failed: No space left on device (28) in /home/weopencom/eaglepro.weopencom.co/login.php on line 2
+[14-Dec-2016 08:23:55 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/weopencom/eaglepro.weopencom.co/login.php:2) in /home/weopencom/eaglepro.weopencom.co/login.php on line 2
+[14-Dec-2016 08:23:55 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/weopencom/eaglepro.weopencom.co/login.php:2) in /home/weopencom/eaglepro.weopencom.co/login.php on line 2
+[14-Dec-2016 08:23:55 America/New_York] PHP Warning:  Unknown: open(/tmp/sess_fe7f80ffd0dff837d5bc5048560edbf9, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[14-Dec-2016 08:23:55 America/New_York] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0

@@ -1,0 +1,62 @@
+[06-Dec-2016 12:44:07 America/New_York] PHP Parse error:  syntax error, unexpected '$address' (T_VARIABLE) in /home/weopencom/eaglepro.weopencom.co/api/order.php on line 32
+[06-Dec-2016 12:45:14 America/New_York] PHP Parse error:  syntax error, unexpected '$address' (T_VARIABLE) in /home/weopencom/eaglepro.weopencom.co/api/order.php on line 32
+[06-Dec-2016 12:47:57 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.user_id =''' at line 2' in /home/weopencom/eaglepro.weopencom.co/api/order.php:48
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/order.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/order.php on line 48
+[06-Dec-2016 12:49:06 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=''' at line 2' in /home/weopencom/eaglepro.weopencom.co/api/order.php:48
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/order.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/order.php on line 48
+[06-Dec-2016 13:10:35 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_table.order_id' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/api/order_view.php:19
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/order_view.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/order_view.php on line 19
+[06-Dec-2016 13:12:02 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_table.order_id' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/api/order_view.php:19
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/order_view.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/order_view.php on line 19
+[06-Dec-2016 13:12:03 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order_table.order_id' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/api/order_view.php:19
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/order_view.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/order_view.php on line 19
+[06-Dec-2016 13:33:53 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC nt_id DESC LIMIT 20' at line 1' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12
+[06-Dec-2016 13:34:06 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC nt_id DESC LIMIT 20' at line 1' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12
+[06-Dec-2016 13:34:34 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nt_id DESC LIMIT 20' at line 1' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12
+[06-Dec-2016 13:34:37 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nt_id DESC LIMIT 20' at line 1' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12
+[06-Dec-2016 20:54:21 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weopenco_eaglepro.notice' doesn't exist' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12
+[06-Dec-2016 21:04:27 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weopenco_eaglepro.notice' doesn't exist' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12
+[06-Dec-2016 21:05:58 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'weopenco_eaglepro.notice' doesn't exist' in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php:12
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/api/notice_view.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/api/notice_view.php on line 12

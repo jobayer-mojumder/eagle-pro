@@ -1,0 +1,50 @@
+[03-Dec-2016 18:35:24 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[03-Dec-2016 18:35:26 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[03-Dec-2016 18:35:31 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[03-Dec-2016 18:35:57 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[03-Dec-2016 18:36:00 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[03-Dec-2016 18:36:00 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[03-Dec-2016 18:36:01 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'year' in 'field list'' in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php:20
+Stack trace:
+#0 /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home/weopencom/eaglepro.weopencom.co/views/helper/target_assign.php on line 20
+[09-Dec-2016 14:54:02 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:07 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:16 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:22 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:23 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:24 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:27 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:54:28 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:56:54 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 14:57:01 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 45
+[09-Dec-2016 15:00:06 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 46
+[09-Dec-2016 15:00:16 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 46
+[09-Dec-2016 15:00:17 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 46
+[09-Dec-2016 15:00:18 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 46
+[09-Dec-2016 15:00:18 America/New_York] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/weopencom/eaglepro.weopencom.co/views/helper/tree_overview.php on line 46
